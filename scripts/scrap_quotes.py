@@ -13,7 +13,6 @@ QUOTES_FILENAME = "/quotes.txt"
 QUOTES_TXT_PATH = os.getcwd() + "/quotes"
 QUOTES_FILE_PATH = QUOTES_TXT_PATH + QUOTES_FILENAME
 QUOTES_URL = "http://www.devtopics.com/101-more-great-computer-quotes/"
-MAX_LEN = 255
 
 def get_bs4_obj(url: str) -> BeautifulSoup:
     '''
@@ -23,6 +22,7 @@ def get_bs4_obj(url: str) -> BeautifulSoup:
     html = urlopen(req).read()
     bs4Obj = BeautifulSoup(html, 'html.parser')
     return bs4Obj
+
 
 def get_ol_tags(bs4Obj: BeautifulSoup) -> List[Tag]:
     '''
@@ -34,12 +34,14 @@ def get_ol_tags(bs4Obj: BeautifulSoup) -> List[Tag]:
     allReleventOL = list(filter(lambda ol: ol.attrs.get('class')!=['commentlist'], allOL))
     return allReleventOL
 
+
 def get_all_quotes(oltags: List[Tag]):
     '''
     Yield all qoutes present in OL tags.
     '''
     for ol in oltags:
         yield ol.find('li').get_text()
+
 
 def save_qoutes(oltags: List[Tag]):
     '''
