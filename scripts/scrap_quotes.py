@@ -18,6 +18,7 @@ def get_bs4_obj(url: str) -> BeautifulSoup:
     '''
     Get BeautifulSoup object for given QOUTES_URL.
     '''
+    # See reason to use Request: https://stackoverflow.com/questions/16627227/http-error-403-in-python-3-web-scraping
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     html = urlopen(req).read()
     bs4Obj = BeautifulSoup(html, 'html.parser')
