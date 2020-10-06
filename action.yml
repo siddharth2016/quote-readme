@@ -1,0 +1,27 @@
+name: "Quote - README"
+author: Siddharth Chandra
+description: "Update a section with random quote/fun-fact on your Readme"
+
+inputs:
+  GH_TOKEN:
+    description: "GitHub access token with Repo scope"
+    required: true
+    default: ${{ github.token }}
+
+  REPOSITORY:
+    description: "Your GitHub repository"
+    default: ${{ github.repository }}
+    required: false
+
+  COMMIT_MESSAGE:
+    description: "Add a commit message of your choice"
+    default: "Update with quote-readme"
+    required: false
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "bookmark"
+  color: "orange"
