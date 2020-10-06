@@ -1,0 +1,101 @@
+“I do not fear computers. I fear lack of them.”— Isaac Asimov  
+“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  
+“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  
+“The computer was born to solve problems that did not exist before.”— Bill Gates    
+“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   
+“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  
+“All parts should go together without forcing.  You must remember that the parts you are reassembling were disassembled by you.  Therefore, if you can’t get them together again, there must be a reason.  By all means, do not use a hammer.”— IBM Manual, 1925  
+“Standards are always out of date.  That’s what makes them standards.”— Alan Bennett   
+“Physics is the universe’s operating system.”— Steven R Garman   
+“It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.”— Craig Bruce   
+“Imagination is more important than knowledge.  For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.”— Albert Einstein   
+“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   
+“The more you know, the more you realize you know nothing.”— Socrates   
+“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   
+“Real knowledge is to know the extent of one’s ignorance.”— Confucius   
+“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   
+“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  
+“If you think your users are idiots, only idiots will use it.”— Linus Torvalds   
+“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams   
+“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   
+“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   
+“There is only one problem with common sense; it’s not very common.”— Milt Bryce   
+“Your most unhappy customers are your greatest source of learning.”— Bill Gates   
+“Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.”— Donald E. Knuth   
+“The Internet?  We are not interested in it.”— Bill Gates, 1993   
+“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   
+“The most likely way for the world to be destroyed, most experts agree, is by accident.  That’s where we come in; we’re computer professionals.  We cause accidents.”— Nathaniel Borenstein   
+“Pessimists, we’re told, look at a glass containing 50% air and 50% water and see it as half empty.  Optimists, in contrast, see it as half full.  Engineers, of course, understand the glass is twice as big as it needs to be.”— Bob Lewis   
+“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   
+“It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure.  Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.”— Nathaniel S. Borenstein   
+“Mostly, when you see programmers, they aren’t doing anything.  One of the attractive things about programmers is that you cannot tell whether or not they are working simply by looking at them.  Very often they’re sitting there seemingly drinking coffee and gossiping, or just staring into space.  What the programmer is trying to do is get a handle on all the individual and unrelated ideas that are scampering around in his head.”— Charles M. Strauss   
+“If you think you are worth what you know, you are very wrong.  Your knowledge today does not have much value beyond a couple of years.  Your value is what you can learn and how easily you can adapt to the changes this profession brings so often.”— Jose M. Aguilar   
+“Programs must be written for people to read, and only incidentally for machines to execute.”— Abelson and Sussman   
+“Commenting your code is like cleaning your bathroom — you never want to do it, but it really does create a more pleasant experience for you and your guests.”— Ryan Campbell  
+“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   
+“Low-level programming is good for the programmer’s soul.”— John Carmack   
+“It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.”— Steve McConnell   
+“If we wish to count lines of code, we should not regard them as ‘lines produced’ but as ‘lines spent.'”— Edsger Dijkstra   
+“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  
+“Before software should be reusable, it should be usable.”— Ralph Johnson  
+“If you automate a mess, you get an automated mess.”— Rod Michael   
+“Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.”— Dan Hurvitz   
+“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   
+“Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.”— Mary Shaw   
+“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  
+“How rare it is that maintaining someone else’s code is akin to entering a beautifully designed building, which you admire as you walk around and plan how to add a wing or do some redecorating. More often, maintaining someone else’s code is like being thrown headlong into a big pile of slimy, smelly garbage.”— Bill Venners   
+“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   
+“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   
+“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   
+“When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle.  Scalability is about building wider roads, not about building faster cars.”— Steve Swartz   
+“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   
+“Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are.”— Danny Thorpe   
+“The best way to predict the future is to implement it.”— David Heinemeier Hansson   
+“We need above all to know about changes; no one wants or needs to be reminded 16 hours a day that his shoes are on.”— David Hubel   
+“On two occasions I have been asked, ‘If you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”— Charles Babbage   
+“Make everything as simple as possible, but not simpler.”— Albert Einstein   
+“Today, most software exists, not to solve a problem, but to interface with other software.”— IO Angell   
+“Good specifications will always improve programmer productivity far better than any programming tool or technique.”— Milt Bryce   
+“The difference between theory and practice is that in theory, there is no difference between theory and practice.”— Richard Moore   
+“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   
+“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   
+“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   
+“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   
+“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   
+“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   
+“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   
+“I think it is inevitable that people program poorly.  Training will not substantially help matters.  We have to learn to live with it.”— Alan Perlis   
+“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   
+“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   
+“There’s no obfuscated Perl contest because it’s pointless.”— Jeff Polk   
+“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  
+“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   
+“It was a joke, okay?  If we thought it would actually be used, we wouldn’t have written it!”— Mark Andreesen, speaking of the HTML tag BLINK   
+“Web Services are like teenage sex.  Everyone is talking about doing it, and those who are actually doing it are doing it badly.”— Michelle Bustamante   
+“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   
+“I didn’t work hard to make Ruby perfect for everyone, because you feel differently from me.  No language can be perfect for everyone.  I tried to make Ruby perfect for me, but maybe it’s not perfect for you.  The perfect language for Guido van Rossum is probably Python.”— Yukihiro Matsumoto, aka “Matz”, creator of Ruby   
+“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   
+“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   
+“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”— David Keppel   
+“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   
+“Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.”— Jamie Zawinski   
+“I think computer viruses should count as life.  I think it says something about human nature that the only form of life we have created so far is purely destructive.  We’ve created life in our own image.”— Stephen Hawking   
+“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”— Gene Spafford   
+“Being able to break security doesn’t make you a hacker anymore than being able to hotwire cars makes you an automotive engineer.”— Eric Raymond   
+“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   
+“If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.”— Bruce Schneier  
+“Hoaxes use weaknesses in human behavior to ensure they are replicated and distributed.  In other words, hoaxes prey on the Human Operating System.”— Stewart Kirkpatrick   
+“Passwords are like underwear: you don’t let people see it, you should change it very often, and you shouldn’t share it with strangers.”— Chris Pirillo   
+“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   
+“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   
+“In an information economy, the most valuable company assets drive themselves home every night.  If they are not treated well, they do not return the next morning.”— Peter Chang  
+“It’s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.”— Steve McConnell   
+“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   
+“Two years from now, spam will be solved.”— Bill Gates, 2004   
+“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  
+“Computer viruses are an urban legend.”— Peter Norton, 1988   
+“In 2031, lawyers will be commonly a part of most development teams.”— Grady Booch   
+“I don’t know what the language of the year 2000 will look like, but I know it will be called Fortran.”— CA Hoare, 1982  
+“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   
+“I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   
+“Before man reaches the moon, mail will be delivered within hours from New York to California, to Britain, to India or Australia.”— Arthur Summerfield, 1959, United States Post
