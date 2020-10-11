@@ -114,4 +114,6 @@ if __name__ == "__main__":
     if readme_content_decoded != new_readme:
         readme_repo.update_file(path=readme_obj.path, message=COMMIT_MSG,
                              content=new_readme, sha=readme_obj.sha)
-    print("success")
+        print("Success")
+    else:
+        print('No change')
