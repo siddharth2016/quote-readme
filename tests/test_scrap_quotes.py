@@ -7,7 +7,6 @@ from scripts.scrap_quotes import get_bs4_obj, get_ol_tags, get_all_quotes
 import unittest
 from unittest.mock import patch, Mock
 from bs4 import BeautifulSoup
-from bs4.element import Tag
 
 class TestScrapQuotes(unittest.TestCase):
 
