@@ -6,6 +6,7 @@ RUN pip install -r requirements.txt
 
 # Add quotes folder
 ADD quotes /quotes
+ADD quotes/quotes.txt /quotes/quotes.txt
 
 # Copy code.
 ADD main.py /main.py
