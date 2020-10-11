@@ -13,6 +13,11 @@ inputs:
     default: ${{ github.repository }}
     required: false
 
+  OPTION:
+    description: "Option for quote, fun-fact or both, it can take - quote, funfact or both"
+    default: "both"
+    required: false
+
   COMMIT_MESSAGE:
     description: "Add a commit message of your choice"
     default: "Update with quote-readme"
