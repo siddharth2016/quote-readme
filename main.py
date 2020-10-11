@@ -48,11 +48,10 @@ def get_funfacts() -> List[str]:
     return funfacts
 
 
-def get_option_list():
+def get_option_list(OPTION):
     """
     Utility to get text list for corresponding given option.
     """
-    global OPTION
     text_list = []
     if OPTION == 'quote':
         text_list.extend(get_quotes())
@@ -76,7 +75,8 @@ def get_text_to_display() -> str:
     """
     Get text to display on readme, depending on option.
     """
-    text_list = get_option_list()
+    global OPTION
+    text_list = get_option_list(OPTION)
     text_to_display = get_quote_funfact(text_list)
     text_to_display = re.sub('[\n\xa0]', '', text_to_display)
     text_to_display = f"<i>❝{text_to_display}❞</i>"
