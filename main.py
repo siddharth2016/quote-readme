@@ -20,8 +20,8 @@ GH_TOKEN = os.getenv("INPUT_GH_TOKEN")
 COMMIT_MSG = os.getenv("INPUT_COMMIT_MESSAGE")
 OPTION = os.getenv("INPUT_OPTION")
 
-QUOTES_PATH = "./quotes/quotes.txt"
-FUNFACTS_PATH = "./funfacts/funfacts.txt"
+QUOTES_PATH = "/quotes/quotes.txt"
+FUNFACTS_PATH = "/funfacts/funfacts.txt"
 
 
 def get_quotes() -> List[str]:
