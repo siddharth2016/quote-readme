@@ -86,7 +86,7 @@ You'll need to get a [GitHub Access Token](https://docs.github.com/en/actions/co
 You need to save the GitHub API Token in the repository secrets. You can find that in the Settings of your Repository.
 
 1. Go to your `<username>/<differentrepo>/actions`, hit `New workflow`, then `set up a workflow yourself`, delete all the default content github made for you.
-2. Copy the following code and paste it to your new workflow you created at step 1, save the workflow.
+2. Copy the following code and paste it to your new workflow you created at step 1, commit the workflow with whatever name you like !
 
 ```yml
 name: Update Quote Readme
