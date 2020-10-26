@@ -46,7 +46,7 @@ You wouldn't need a GitHub Access Token since GitHub Actions already makes one f
 Please follow the steps below:
 
 1. Go to your `<username>/<username>/actions`, hit `New workflow`, then `set up a workflow yourself`, delete all the default content github made for you.
-2. Copy the following code and paste it to your new workflow you created at step 1, save the workflow.
+2. Copy the following code and paste it to your new workflow you created at step 1, commit the workflow and name it whatever you like !
 
 ```yml
 name: Update Quote Readme
