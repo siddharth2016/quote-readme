@@ -165,7 +165,7 @@ To run tests simply execute the following in the directory containing `main.py`:
 python -m unittest discover
 ```
 
-#### Another intriguing action you would want to use - [update-readme-image](https://github.com/siddharth2016/update-readme-image)
+#### Another intriguing action you would want to use - [update-readme-image](https://github.com/siddharth2016/update-readme-image#random-image-on-readme--)
 
 #### Check out the [scripts](https://github.com/siddharth2016/quote-readme/tree/main/scripts) folder to know more about how quotes/facts were retrieved
 
