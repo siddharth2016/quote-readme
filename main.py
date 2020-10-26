@@ -78,7 +78,8 @@ def get_text_to_display() -> str:
     global OPTION
     text_list = get_option_list(OPTION)
     text_to_display = get_quote_funfact(text_list)
-    text_to_display = re.sub('[\n\xa0]', '', text_to_display)
+    text_to_display = re.sub('[\n]', '', text_to_display)
+    text_to_display = re.sub('[\xa0]', ' ', text_to_display)
     text_to_display = f"<i>❝{text_to_display}❞</i>"
     return text_to_display
 

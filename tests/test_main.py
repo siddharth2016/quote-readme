@@ -34,7 +34,7 @@ class TestQuoteReadme(unittest.TestCase):
 
                 mockquote.return_value = '\xa0mock quote.\n'
                 actual = get_text_to_display()
-                self.assertEqual('<i>❝mock quote.❞</i>', actual)
+                self.assertEqual('<i>❝ mock quote.❞</i>', actual)
 
             
 
