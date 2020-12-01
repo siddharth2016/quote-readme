@@ -24,8 +24,8 @@ class TestScrapFunFacts(unittest.TestCase):
         self.dummyurl = 'someurl.com'
 
     def test_get_bs4_obj(self):
-        with patch('scripts.scrap_fun_facts.Request') as mockreq:
-            with patch('scripts.scrap_fun_facts.urlopen') as mockurlopen:
+        with patch('scripts.scrape_fun_facts.Request') as mockreq:
+            with patch('scripts.scrape_fun_facts.urlopen') as mockurlopen:
                 mockurlopen.return_value.read.return_value = self.html
                 actual = get_bs4_obj(self.dummyurl)
                 expected = BeautifulSoup(self.html, 'html.parser')
