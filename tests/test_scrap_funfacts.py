@@ -3,7 +3,7 @@
 Test for scarp_funfacts.py
 """
 
-from scripts.scrap_fun_facts import get_bs4_obj, get_p_tags, get_all_facts, filter_p_tags
+from scripts.scrape_fun_facts import get_bs4_obj, get_p_tags, get_all_facts, filter_p_tags
 import unittest
 from unittest.mock import patch, Mock
 from bs4 import BeautifulSoup

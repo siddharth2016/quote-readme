@@ -3,7 +3,7 @@
 Test for scrap_quotes.py
 """
 
-from scripts.scrap_quotes import get_bs4_obj, get_ol_tags, get_all_quotes
+from scripts.scrape_quotes import get_bs4_obj, get_ol_tags, get_all_quotes
 import unittest
 from unittest.mock import patch, Mock
 from bs4 import BeautifulSoup
