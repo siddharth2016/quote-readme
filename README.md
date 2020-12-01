@@ -24,6 +24,7 @@
 4. It is better to run the Action on your Profile Repository, since you won't be needing a GitHub Access Token !
 5. Check [this](#examples) to see available options while creating a workflow for this action.
 
+---
 
 ### Update Your Readme
 
@@ -36,6 +37,7 @@ Add a comment to your `README.md` like this:
 
 You can place these 2 lines anywhere you want quotes/facts to be displayed.
 
+---
 
 ### Profile Repository
 
@@ -76,6 +78,7 @@ jobs:
 5. Go to Workflows menu (mentioned in step 1), click `Update Quote Readme`, click `Run workflow`.
 6. Go to your profile page, you will be able to see a random quote/fact wherever you placed [this](#update-your-readme) comment on README.
 
+---
 
 ### Other Repository (not Profile)
 
@@ -119,6 +122,7 @@ jobs:
 5. Go to Workflows menu (mentioned in step 1), click `Update Quote Readme`, click `Run workflow`.
 6. Go to your profile page, you will be able to see a random quote/fact wherever you placed [this](#update-your-readme) comment on README.
 
+---
 
 ### Examples
 
@@ -156,6 +160,7 @@ For example, if your workflow is present in `<username>/repo1` and you want to u
     OPTION: both            # default - both, can be one of (quote, funfact, both), if 'both' then will display either a quote or a fact
 ```
 
+---
 
 ### Tests
 
@@ -165,8 +170,16 @@ To run tests simply execute the following in the directory containing `main.py`:
 python -m unittest discover
 ```
 
+---
+
 #### Another intriguing action you would want to use - [update-readme-image](https://github.com/marketplace/actions/update-image-readme)
 
 #### Check out the [scripts](https://github.com/siddharth2016/quote-readme/tree/main/scripts) folder to know more about how quotes/facts were retrieved
 
 #### If you liked this Action and want to contribute to upgrade this utility, please create an issue or throw a PR !
+
+---
+
+#### Inspired From
+
+[athul/waka-readme](https://github.com/athul/waka-readme)
