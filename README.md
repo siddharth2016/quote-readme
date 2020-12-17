@@ -13,6 +13,12 @@
 
 ## Random Quote/Fact on your (Profile) Readme
 
+### How To Use This Action
+
+There is a short tutorial with enough steps for you to get started with this not-so-useful GitHub Action. Check that out [here](https://blog.codekaro.info/quote-readme-see-wonderful-quotesfun-facts-on-your-github-profile-readme).
+
+If you want to get an in-depth idea on the usage of this action, please follow the below points.
+
 ### Prepare Your Repository
 
 1. You need to update the markdown file(.md) with 2 comments. You can refer [here](#update-your-readme) for updating it.
