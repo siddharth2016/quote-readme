@@ -98,3 +98,13 @@
 “In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   
 “I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   
 “Before man reaches the moon, mail will be delivered within hours from New York to California, to Britain, to India or Australia.”— Arthur Summerfield, 1959, United States Post
+“The world is one big data problem.”— Andrew McAfee
+“Data levels all arguments.”— Anthony W. Richardson
+“Maybe stories are just data with a soul.”— Brené Brown
+“The data speaks for itself. That’s the easiest measure of success.”— Caitlin Smallwood
+“The goal is to turn data into information, and information into insight.”— Carly Fiorina
+“The best way to learn data science is to do data science.”— Chanin Nantasenamat
+“The great thing about predictions is that you can be wrong.”— Chris Wiggins
+“In Data Science if you want to help individuals, be empathetic and ask questions; that way, you can begin to understand their journey, too.”— Damian Duffy Mingle
+“As data scientists, our job is to extract signal from noise.”— Daniel Tunkelang
+“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio
