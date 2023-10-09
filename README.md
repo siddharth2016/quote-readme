@@ -15,7 +15,7 @@
 
 ### How To Use This Action
 
-There is a short tutorial with enough steps for you to get started with this not-so-useful GitHub Action. Check that out [here](https://blog.codekaro.info/quote-readme-see-wonderful-quotesfun-facts-on-your-github-profile-readme).
+There is a short tutorial with enough steps for you to get started with this not-so-useful GitHub Action. Check that out [here](https://chandraji.dev/quote-readme-see-wonderful-quotesfun-facts-on-your-github-profile-readme).
 
 If you want to get an in-depth idea on the usage of this action, please follow the below points.
 
