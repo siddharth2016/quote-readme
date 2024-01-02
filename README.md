@@ -17,18 +17,28 @@
 
 There is a short tutorial with enough steps for you to get started with this not-so-useful GitHub Action. Check that out [here](https://chandraji.dev/quote-readme-see-wonderful-quotesfun-facts-on-your-github-profile-readme).
 
-If you want to get an in-depth idea on the usage of this action, please follow the below points.
+If you want to get an in-depth idea of the usage of this action, please follow the below points.
 
 ### Prepare Your Repository
 
-1. You need to update the markdown file(.md) with 2 comments. You can refer [here](#update-your-readme) for updating it.
-2. **Optional** You'll need a GitHub API Token with `repo` scope from [here](https://github.com/settings/tokens) if you're running the action for a non profile repository.
+1. You need to update the markdown file(.md) with 2 comments. You can refer to [here](#update-your-readme) for updating it.
+2. **Optional** You'll need a GitHub API Token with `repo` scope from [here](https://github.com/settings/tokens) if you're running the action for a non-profile repository.
    - You can use [this](#other-repository-not-profile) example to work it out.
-3. You can follow any one example below according to your needs to get started !
+3. You can follow any one example below according to your needs to get started!
    - Use [this](#profile-repository) on Profile Repository.
    - Use [this](#other-repository-not-profile) on any other Repository.
-4. It is better to run the Action on your Profile Repository, since you won't be needing a GitHub Access Token !
+4. It is better to run the Action on your Profile Repository since you won't be needing a GitHub Access Token!
 5. Check [this](#examples) to see available options while creating a workflow for this action.
+
+### Errors And Workarounds
+
+If you are facing a GithubException "Resource not accessible by integration", you may want to check your repository permissions or GitHub token permissions.
+
+For repository permissions (Thank you [@jaborjkath](https://github.com/jaborjkath) for bringing this to my attention):
+To enable read and write permissions from the relevant repository settings (top right corner) → Actions (left navigation bar) → General → Workflow permissions section.
+You can find more information [here](https://stackoverflow.com/questions/61989951/github-action-workflow-not-running/77167633#77167633).
+
+For GitHub token permissions you can refer [here](https://docs.github.com/en/actions/security-guides/automatic-token-authentication).
 
 ---
 
